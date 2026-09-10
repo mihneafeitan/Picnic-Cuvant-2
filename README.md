@@ -1,7 +1,7 @@
 # Picnic Cuvant
 
 **Picnic Cuvant** este un joc de cuvinte in limba romana, cu interfata grafica
-(SFML), inspirat de jocuri din jocul "Word Snack". La fiecare
+(SFML), inspirat din jocul "Word Snack". La fiecare
 nivel, jucatorul primeste un set de litere asezate intr-un cerc pe ecran si
 trebuie sa formeze, dand click pe litere in ordine, toate cuvintele ale
 nivelului respectiv. Proiectul contine 10 nivele, cu litere si cuvinte reale
